@@ -1,6 +1,6 @@
 from data_loader import load_data
 from data_cleaner import clean_data
-from model_trainer import train_base_models
+from base_model_trainer import train_base_models
 from ensemble_trainer import train_stacked_ensemble
 from evaluation_metrics import evaluate_model
 from sklearn.model_selection import train_test_split
