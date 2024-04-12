@@ -11,7 +11,7 @@ def main():
     Main function to execute the fraud detection pipeline.
     """
     # Load data
-    data_path = '/content/creditcard.csv'
+    data_path = '/Data/creditcard.csv'
     data = load_data(data_path)
 
     # Clean data
