@@ -32,7 +32,7 @@ The fraud detection pipeline is designed to identify fraudulent transactions in 
 
 ## Data
 
-The dataset used for fraud detection is sourced from Kaggle, specifically from the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) dataset by Machine Learning Group at ULB. It contains numerical input variables resulting from a PCA transformation, including features V1 to V28, 'Time', and 'Amount', as well as the target variable 'Class' indicating whether a transaction is fraudulent (1) or legitimate (0).
+The dataset used for fraud detection is sourced from the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) dataset by Machine Learning Group at ULB. It contains numerical input variables resulting from a PCA transformation, including features V1 to V28, 'Time', and 'Amount', as well as the target variable 'Class' indicating whether a transaction is fraudulent (1) or legitimate (0).
 
 ## Base Models
 
